@@ -75,3 +75,8 @@ gem "twitter-bootstrap-rails"
 gem "jquery-rails", "~> 4.3", ">= 4.3.1"
 gem 'devise-bootstrap-views', '~> 1.0'
 
+
+# Real Time Stock Data
+gem "stock_quote", '~> 3.0.0'
+
+gem 'iex-ruby-client'
